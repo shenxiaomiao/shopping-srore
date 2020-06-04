@@ -1,2 +1,2 @@
-＃shopping-srore
+＃shopping-store
 #
